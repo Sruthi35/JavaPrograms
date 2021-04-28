@@ -1,2 +1,2 @@
-# Java/springboot
-Simple API Development
+# JavaPrograms
+Basic Java Programs
